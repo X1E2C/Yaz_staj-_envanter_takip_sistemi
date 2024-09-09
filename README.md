@@ -1,0 +1,2 @@
+# Yaz_staj-_envanter_takip_sistemi
+Botas_envarter_takip
